@@ -39,7 +39,7 @@ experience in full-stack web development and a drive to continuously upskill.
 
 ## Projects
 
-### CampusMate —CPUT Clinic Booking System
+### CampusMate — CPUT Clinic Booking System
 - **Situation:** CPUT students had no easy way to book clinic appointments,
   leading to long queues and missed visits.
 - **Task:** Designed and built a web-based booking system as part of a
@@ -74,4 +74,5 @@ experience in full-stack web development and a drive to continuously upskill.
 
 ## References
 **Darron Gelderbloem** | darron@lifechoices.co.za | 021 696 4157
+
 **Pearl Sisipho Ngcuka** | pearlngcuka@gmail.com | 072 356 6897
