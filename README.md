@@ -82,13 +82,13 @@ experience in full-stack web development and a drive to continuously upskill.
 
 ---
 ## Reflection on the Mockup video
--**Situation**
+-**Situation :**
 During my mockup video , I was asked follow-up questions after presenting my main points. The challenge was that I struggled to respond immediately and structure my answers without making the video overly long.
 
--**Task**
+-**Task :**
 My task was to demonstrate clear, professional communication by answering questions effectively, showing that I could think on my feet while keeping my responses concise and relevant.
 
--**Action**
+-**Action :**
 To manage this, I tried to apply the STAR method in real time:
 ° Identified the Situation quickly to set context without overexplaining.
 
@@ -100,5 +100,5 @@ To manage this, I tried to apply the STAR method in real time:
 
 ° I also reminded myself to pause briefly before answering, which helped me organize my thoughts and avoid rambling.
 
--**Result**
+-**Result :**
 Although I initially struggled, I was able to keep my answers structured and avoid making the video too long. The feedback I received noted that my responses became clearer once I leaned on the STAR framework. I learned that even under pressure, pausing to mentally map out STAR helps me stay concise and professional. Going forward, I plan to practice short, structured answers so I can navigate questions more smoothly in real-time.
