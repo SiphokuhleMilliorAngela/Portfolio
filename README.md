@@ -103,3 +103,25 @@ To manage this I tried to apply the STAR method in real time:
 
 -**Result :**
 Although I initially struggled, I was able to keep my answers structured and avoid making the video too long. The feedback I received noted that my responses became clearer once I leaned on the STAR framework. I learned that even under pressure, pausing to mentally map out STAR helps me stay concise and professional. Going forward, I plan to practice short, structured answers so I can navigate questions more smoothly in real-time.
+
+---
+## Reflection on using Github Pages 
+-**Situation :**
+I used GitHub Pages to host and share my mockup video. The goal was to make the video easily accessible online through a simple webpage.
+
+-**Task :**
+My task was to successfully upload the video and ensure it displayed correctly on GitHub Pages, demonstrating both technical ability and clear communication of my work.
+
+-**Action :**
+While setting up the page, I encountered a problem: the video would not upload or display properly. To address this, I:
+
+° Checked the file format and size to ensure compatibility.
+
+° Reviewed the repository structure to confirm the video was placed in the correct folder.
+
+° Adjusted the HTML code to reference the video file correctly.
+
+° Tested the page multiple times, making small changes until the video finally appeared as intended.
+
+-**Results :**
+Although this process was frustrating at first, I eventually resolved the issue and got the video to display on GitHub Pages. This taught me the importance of troubleshooting, patience, and attention to detail when working with web hosting tools. I also realized that documenting each step helps me avoid repeating mistakes in the future. Overall, the experience strengthened both my technical skills and my ability to communicate effectively through digital platforms.
