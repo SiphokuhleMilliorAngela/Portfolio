@@ -10,7 +10,7 @@ experience in full-stack web development and a drive to continuously upskill.
  <video width="100%" height="350px" controls>
   <source src="https://github.com/user-attachments/assets/df853a22-2b3c-4844-ac3f-9d6304c80d91" type="video/mp4">
 </video>
-
+---
 ## Reflection on the Mockup video
 -**Situation**
 During my mockup video , I was asked follow-up questions after presenting my main points. The challenge was that I struggled to respond immediately and structure my answers without making the video overly long.
