@@ -89,7 +89,8 @@ During my mockup video , I was asked follow-up questions after presenting my mai
 My task was to demonstrate clear, professional communication by answering questions effectively, showing that I could think on my feet while keeping my responses concise and relevant.
 
 -**Action :**
-To manage this, I tried to apply the STAR method in real time:
+To manage this I tried to apply the STAR method in real time:
+
 ° Identified the Situation quickly to set context without overexplaining.
 
 ° Clarified the Task in one sentence to show understanding.
