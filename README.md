@@ -1,4 +1,4 @@
-
+<img width="323" height="268" alt="image" src="https://github.com/user-attachments/assets/c243bde3-f5ce-4332-b7db-da1a00cba02f" />
 # SIPHOKUHLE MILLIOR ANGELA NYANA
 
 📞083 243 2798 | 🌐 [Portfolio](https://siphokuhlemilliornyana.netlify.app/) | [LinkedIn](https://www.linkedin.com/in/siphokuhlenyana-6a917016a/)
@@ -238,15 +238,15 @@ The logbook records what the team planned each sprint, what I worked on, and wha
 
 | Sprint | Sprint goal | My tasks | What went well / blockers / what I would change |
 |---|---|---|---|
-| 1 | Setup, catalogue, listing, customisation | GitHub setup and project structure; unit tests for product API; consume endpoints on the front end; deploy initial version to staging | [[ ]] |
-| 2 | Cart, checkout, orders | Display running totals; create cart endpoints; test cart-to-checkout flow; deploy Sprint 2 | [[ ]] |
-| 3 | Authentication, profile, wishlist | Integrate authentication with carts; connect profile to authentication; integration testing; performance checks | [[ ]] |
-| 4 | Customisation, payments | Enhance live preview; backend testing; payment sandbox testing | [[ ]] |
-| 5 | Admin dashboard and management | Access control; bulk actions; testing; deployment | [[ ]] |
-| 6 | Order workflow, fulfilment, tracking | Enhance status logic; testing; polishing; deployment | [[ ]] |
-| 7 | Home page, feedback, notifications | CTAs; survey integration; testing; debugging | [[ ]] |
-| 8 | Testing, UI, performance | Journey tests; navigation; retesting; regression testing | [[ ]] |
-| 9 | Security, data protection, reliability | HTTPS and headers; testing; documentation; deployment | [[ ]] |
+| 1 | Setup, catalogue, listing, customisation | GitHub setup and project structure; unit tests for product API; consume endpoints on the front end; deploy initial version to staging | [Everything went well |
+| 2 | Cart, checkout, orders | Display running totals; create cart endpoints; test cart-to-checkout flow; deploy Sprint 2 | Follow up after analysis |
+| 3 | Authentication, profile, wishlist | Integrate authentication with carts; connect profile to authentication; integration testing; performance checks | Email Auth went well |
+| 4 | Customisation, payments | Enhance live preview; backend testing; payment sandbox testing | No blocker |
+| 5 | Admin dashboard and management | Access control; bulk actions; testing; deployment | No blocker |
+| 6 | Order workflow, fulfilment, tracking | Enhance status logic; testing; polishing; deployment | This works seamless |
+| 7 | Home page, feedback, notifications | CTAs; survey integration; testing; debugging |Everything went well after debugging |
+| 8 | Testing, UI, performance | Journey tests; navigation; retesting; regression testing |Render services at some point were a blocker but we managed to make it work|
+| 9 | Security, data protection, reliability | HTTPS and headers; testing; documentation; deployment | Render & Vercel gave us issues ] |
 
 **Stand-up format we used:** What did I do yesterday? What will I do today? Is anything blocking me?
 
@@ -254,6 +254,8 @@ The logbook records what the team planned each sprint, what I worked on, and wha
 
 
 <img src="communication.jpg" alt="communication">
+<img src="agile.png" alt="agile">
+<img src="agile2.png" alt="agile2">
 
 ### Reflection
 
