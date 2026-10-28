@@ -133,6 +133,7 @@ When the team shrank, we opened a second card, **NEW PC**, to restructure the pr
 
 <img src="charter.jpg" alt="charter">
 <img src="charter2.jpg" alt="charter2">
+<img src="milestones.jpg" alt="milestones">
 
 ### Reflection
 
@@ -158,7 +159,8 @@ Every sprint card in Trello holds a **user story** in its description and a **ch
 
 Each day-card follows the same pattern: a story, then five or six tasks covering build, test, integrate, review and deploy.
 
-![Trello sprint card showing a user story and task checklist](images/user-stories-card.png)
+<img src="userstory.png" alt="userstory">
+<img src="checklist.png" alt="checklist">
 
 ### Reflection
 
@@ -216,8 +218,8 @@ Each sprint ran for four days and used the same rhythm: Day 1 to 3 build feature
 | 8 | Core testing, UI improvements, performance, deployment pipeline |
 | 9 (in progress) | Security hardening, data protection, reliability, deploy |
 
-<img src="milestones.jpg" alt="milestones">
-![Trello SPRINT: IN PROGRESS list](images/sprint-inprogress.png)
+<img src="inprogress.png" alt="inprogress">
+<img src="completed.png" alt="completed">
 
 ### Reflection
 
