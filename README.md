@@ -106,7 +106,6 @@ Adaptable developer who thrives in both team and independent environments, with 
 
 | **Pearl Sisipho Ngcuka** | pearlngcuka@gmail.com | 072 356 6897 |
 | **Jessica Randall** | gdgcapetown@gmail.com
-
 |--------------------------|-----------------------|--------------|
 
 * * *
