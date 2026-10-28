@@ -60,7 +60,7 @@ Adaptable developer who thrives in both team and independent environments, with 
 - **Action:** Used `Trello`, `GitHub`, `Java`, `Spring`, `React`, `Supabase`, `Render` and `Vercvel` to write user stories, build and test cart, authentication, payment and admin features, and deploy at the end of each sprint.
 - **Result:** Delivered a working system with a catalogue, cart, payments, admin dashboard and order tracking across eight completed sprints, and kept the project on track after restructuring the plan.
 
-### CampusMate — CPUT Clinic Booking System
+### CampusMate: CPUT Clinic Booking System
 
 - **Situation:** CPUT students had no easy way to book clinic appointments, leading to long queues and missed visits.
 - **Task:** Designed and built a web-based booking system as part of a student project.
