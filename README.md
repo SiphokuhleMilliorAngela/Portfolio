@@ -138,8 +138,8 @@ When the team shrank, we opened a second card, **NEW PC**, to restructure the pr
 
 - **Situation:** At the start of the project six of us had to work as one team on a shared product. Later a member left, and the work had to be redistributed.
 - **Task:** My task was to help make the charter a working agreement we could use every day, not just a document to hand in. After the member left, we had to update it.
-- **Action:** We agreed our purpose, roles, values and communication plan together, then recorded them in the WBS card. Communication ran through a WhatsApp group where meetings were held and roles assigned. When the team changed, we opened the NEW PC card, logged the change, and updated roles so every remaining member had clear ownership. [[Add one specific example of when the charter helped you, e.g. a disagreement, a missed deadline, or a handover.]]
-- **Result:** The charter gave us a reference point when the team changed, and the sprint cards show that everyone kept clear, named responsibilities afterwards. I learned that a charter has to be a living document. The first version was only useful because we were willing to revise it. [[Add what you would do differently, e.g. write a rule for what happens when a member leaves.]]
+- **Action:** We agreed our purpose, roles, values and communication plan together, then recorded them in the WBS card. Communication ran through a WhatsApp group where meetings were held and roles assigned. When the team changed, we opened the NEW PC card, logged the change, and updated roles so every remaining member had clear ownership. 
+- **Result:** The charter gave us a reference point when the team changed, and the sprint cards show that everyone kept clear, named responsibilities afterwards. I learned that a charter has to be a living document. The first version was only useful because we were willing to revise it. 
 
 * * *
 
@@ -164,8 +164,8 @@ Each day-card follows the same pattern: a story, then five or six tasks covering
 
 - **Situation:** A feature such as "checkout" was too big to assign to one person or finish in one day. We needed a way to break it down so everyone knew what to do and how it served the user.
 - **Task:** Write user stories from the user's perspective and break each one into small tasks that could be assigned, tracked and tested within a four-day sprint.
-- **Action:** We wrote stories in the form *As a [user], I want [feature], so that [benefit]* and split each into subtasks with an owner. My tasks leaned towards testing, integration and deployment, for example unit tests for the product API, integrating authentication with the cart, and deploying the sprint. [[]]
-- **Result:** Writing the "so that" part forced us to think about why a feature mattered, and the named subtasks made progress visible on the board. I learned that a story is only good when it can be tested. [[]]
+- **Action:** We wrote stories in the form *As a user, I want a checkout feature to weigh my options , so that it will be convinient for me  and we split each into subtasks with the team. My tasks leaned towards testing, integration and deployment, for example unit tests for the product API, integrating authentication with the cart, and deploying the sprint. 
+- **Result:** Writing the "so that" part forced us to think about why a feature mattered, and the named subtasks made progress visible on the board. I learned that a story is only good when it can be tested. 
 
 * * *
 
@@ -193,8 +193,8 @@ We kept two versions of the **PRODUCT BACKLOG** list on the board.
 
 - **Situation:** Our first backlog was planned phase by phase, and it assumed the whole team would be available for the whole project. When the team changed and the work moved faster than planned, it no longer matched reality.
 - **Task:** Re-prioritise the backlog so the remaining sprints were realistic and still delivered a working product.
-- **Action:** We archived the original list and wrote a revised backlog in which each item has a user story and five named subtasks. Items were ordered by what the next sprint depended on, for example testing before deployment, and documentation before launch. [[Add how the team decided priorities,]]
-- **Result:** The revised backlog is more specific and easier to act on than the original. The statuses on the board show what is finished and what is still open. I learned that a backlog is a prioritised, changing list, not a fixed plan, and that re-planning early is cheaper than late. [[Add prioritise differently.]]
+- **Action:** We archived the original list and wrote a revised backlog in which each item has a user story and five named subtasks. Items were ordered by what the next sprint depended on, for example testing before deployment, and documentation before launch. As a team we decided to rank out rather put our tasks in priority partitions being that the ones that require much attention can be solved a group if the person allocated to the issue needs help .
+- **Result:** The revised backlog is more specific and easier to act on than the original. The statuses on the board show what is finished and what is still open. I learned that a backlog is a prioritised, changing list, not a fixed plan, and that re-planning early is cheaper than late. 
 
 * * *
 
@@ -216,15 +216,15 @@ Each sprint ran for four days and used the same rhythm: Day 1 to 3 build feature
 | 8 | Core testing, UI improvements, performance, deployment pipeline |
 | 9 (in progress) | Security hardening, data protection, reliability, deploy |
 
-<img src="milestones.png" alt="milestones">
+<img src="milestones.jpg" alt="milestones">
 ![Trello SPRINT: IN PROGRESS list](images/sprint-inprogress.png)
 
 ### Reflection
 
 - **Situation:** With five or six people working in four-day sprints, every day had to have clear work for each person, or the whole team would stall.
 - **Task:** Turn items from the product backlog into a sprint plan that the whole team could finish and deploy by Day 4.
-- **Action:** We pulled work from the product backlog into day-cards, assigned each subtask to a member, and ticked checklist items as they were completed. Day 4 was always reserved for review, documentation and deployment. [[Add how you tracked progress during the sprint, e.g. daily check-ins on WhatsApp.]]
-- **Result:** Sprints 1 to 8 are mostly complete on the board, and each ended with a deployment. A few items, such as Sprint 4 Day 4 and Sprint 7 Days 1 and 3, still have open checklist items, which shows that we sometimes planned more than we could finish. [[Add the reason, e.g. a blocker or dependency.]] I learned to commit to what the team can realistically deliver.
+- **Action:** We pulled work from the product backlog into day-cards, assigned each subtask to a member, and ticked checklist items as they were completed. Day 4 was always reserved for review, documentation and deployment.To make sure this is done seamlessly we had a catchup sessions in between sprints varying from the difficulty of the sprint , I was responsible for making sure we were on the same page so that we get good results at the end of each prints . Collaborately this wasn't a "one man" jive thing we as the team took turns to do project management.
+- **Result:** Sprints 1 to 8 are mostly complete on the board, and each ended with a deployment. A few items, such as Sprint 4 Day 4 and Sprint 7 Days 1 and 3, still have open checklist items, which shows that we sometimes planned more than we could finish.A blocker at this point was incoming requests from the coordinator for certain changes and advise and  I learned to commit to what the team can realistically deliver.
 
 * * *
 
@@ -232,7 +232,7 @@ Each sprint ran for four days and used the same rhythm: Day 1 to 3 build feature
 
 ### Evidence
 
-The logbook records what the team planned each sprint, what I worked on, and what we learned. The first two columns come from our Trello board. [[memory or notes.]]
+The logbook records what the team planned each sprint, what I worked on, and what we learned. The first two columns come from our Trello board.You can also have a look on the attached documents in this repository for more context.
 
 | Sprint | Sprint goal | My tasks | What went well / blockers / what I would change |
 |---|---|---|---|
@@ -257,8 +257,8 @@ The logbook records what the team planned each sprint, what I worked on, and wha
 
 - **Situation:** In a team working at pace, it is easy to lose track of what was decided and why.
 - **Task:** Keep a record of planning, daily progress and retrospectives so the team and I could look back and improve.
-- **Action:** I recorded the sprint goal, my tasks and my observations for each sprint, using the board for planning and the team chat for meetings. [[Add how you wrote entries, e.g. at the end of each sprint day.]]
-- **Result:** Looking back across nine sprints, I can see my role settle into testing, integration and deployment, and I can see the problems repeat when we did not act on a retrospective. [[Add a specific example of a problem that repeated or a change that worked.]] I learned that a logbook is only useful when its notes feed into the next sprint plan.
+- **Action:** I recorded the sprint goal, my tasks and my observations for each sprint, using the board for planning and the team chat for meetings. I set a poll on our whatsapp group chat and one would check the subtasks they want to work on by this it gave us enough time to spot out the subtasks that still need to be done and are not allocated to anyone
+- **Result:** Looking back across nine sprints, I can see my role settle into testing, integration and deployment, and I can see the problems repeat when we did not act on a retrospective.  I learned that a logbook is only useful when its notes feed into the next sprint plan.
 
 * * *
 
