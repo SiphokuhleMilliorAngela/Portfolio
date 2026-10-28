@@ -52,6 +52,20 @@ Adaptable developer who thrives in both team and independent environments, with 
 
 * * *
 
+
+## Voluntary Work
+
+### Volunteer — Google Developer Group, Cape Town
+
+*March 2026 – Present*
+
+- **Situation:** The Google Developer Group Cape Town community needed engaging, inclusive tech events that would grow attendance and give members practical, hands-on learning, particularly in AI.
+- **Task:** I was responsible for designing and facilitating AI Agent coding workshops for 30+ participants, creating a welcoming environment for people from diverse backgrounds, keeping event facilities ready and running smoothly, and growing attendance by partnering with other tech communities and sponsors.
+- **Action:** Designed and ran hands-on AI Agent coding workshops and added structured collaboration activities so every participant could take part. Managed the upkeep and readiness of the venue and facilities across events. Partnered with tech communities I am active in and with industry sponsors to co-host events, promoting them through coordinated campaigns on `LinkedIn` and `email`.
+- **Result:** Workshop engagement scores increased by 10%, and community belonging surveys gave positive feedback on the inclusive environment. Events ran with zero disruptions to the participant experience, and co-hosted events drove a 40% increase in attendance. The role strengthened my facilitation, communication,podcasting , event coordination and teamwork skills.
+
+* * *
+
 ## Projects
 ### Item Hive: E-commerce Web Application (Team Project)
 
@@ -91,6 +105,8 @@ Adaptable developer who thrives in both team and independent environments, with 
 **Darron Gelderbloem** | darron@lifechoices.co.za | 021 696 4157
 
 | **Pearl Sisipho Ngcuka** | pearlngcuka@gmail.com | 072 356 6897 |
+| **Jessica Randall** | gdgcapetown@gmail.com
+
 |--------------------------|-----------------------|--------------|
 
 * * *
