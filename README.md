@@ -22,6 +22,16 @@ Adaptable developer who thrives in both team and independent environments, with 
 
 ## Work Experience
 
+### Project Team Member (Testing, Integration & Deployment) — Item Hive, CPUT WIL Project
+
+*July 2026 – November 2026*
+
+- **Situation:** Our six-person team had to build Item Hive, an e-commerce web application with customisable products, a cart and checkout, payment integration, an admin dashboard and student order tracking. We worked in four-day Scrum sprints, and partway through the project a member left, so the plan and the workload had to be restructured.
+- **Task:** I was responsible for testing, integrating and deploying each sprint's work. This included unit tests for the product API, cart endpoints, connecting authentication to the cart and profile, payment sandbox testing, access control, and regression testing. I also helped the team plan with a work breakdown structure and keep our Trello board up to date.
+- **Action:** Used these technologies:`Trello`, `GitHub`, `Java`, `Spring`, `React`, `Supabase`, `Render` and `Vercvel` I wrote user stories and broke them into assigned subtasks, set up the GitHub project structure, tested features against acceptance criteria, and deployed at the end of each sprint. After the team changed, I helped update the charter and re-prioritise the backlog into day-by-day items.
+- **Result:** Completed  sprints, each ending in a deployment,  I also kept the project on track after losing a team member and delivered a working system covering catalogue, cart, payments, admin management and order tracking. My biggest achievement would be hardnening my skills in project management , backend development , testing .
+
+  
 ### Software Engineer Intern — LC Studio, Lansdowne
 
 *October 2024 – January 2025*
@@ -43,6 +53,12 @@ Adaptable developer who thrives in both team and independent environments, with 
 * * *
 
 ## Projects
+### Item Hive: E-commerce Web Application (Team Project)
+
+- **Situation:** Customers and students needed an easy way to order customisable products and track their orders, and our six-person team had to build it in four-day Scrum sprints, even after a team member left.
+- **Task:** Planning the project with a work breakdown structure and user stories, and took responsibility for testing, integration and deployment of each sprint.
+- **Action:** Used `Trello`, `GitHub`, `Java`, `Spring`, `React`, `Supabase`, `Render` and `Vercvel` to write user stories, build and test cart, authentication, payment and admin features, and deploy at the end of each sprint.
+- **Result:** Delivered a working system with a catalogue, cart, payments, admin dashboard and order tracking across eight completed sprints, and kept the project on track after restructuring the plan.
 
 ### CampusMate — CPUT Clinic Booking System
 
@@ -238,7 +254,7 @@ The logbook records what the team planned each sprint, what I worked on, and wha
 
 | Sprint | Sprint goal | My tasks | What went well / blockers / what I would change |
 |---|---|---|---|
-| 1 | Setup, catalogue, listing, customisation | GitHub setup and project structure; unit tests for product API; consume endpoints on the front end; deploy initial version to staging | [Everything went well |
+| 1 | Setup, catalogue, listing, customisation | GitHub setup and project structure; unit tests for product API; consume endpoints on the front end; deploy initial version to staging | Everything went well |
 | 2 | Cart, checkout, orders | Display running totals; create cart endpoints; test cart-to-checkout flow; deploy Sprint 2 | Follow up after analysis |
 | 3 | Authentication, profile, wishlist | Integrate authentication with carts; connect profile to authentication; integration testing; performance checks | Email Auth went well |
 | 4 | Customisation, payments | Enhance live preview; backend testing; payment sandbox testing | No blocker |
@@ -246,7 +262,7 @@ The logbook records what the team planned each sprint, what I worked on, and wha
 | 6 | Order workflow, fulfilment, tracking | Enhance status logic; testing; polishing; deployment | This works seamless |
 | 7 | Home page, feedback, notifications | CTAs; survey integration; testing; debugging |Everything went well after debugging |
 | 8 | Testing, UI, performance | Journey tests; navigation; retesting; regression testing |Render services at some point were a blocker but we managed to make it work|
-| 9 | Security, data protection, reliability | HTTPS and headers; testing; documentation; deployment | Render & Vercel gave us issues ] |
+| 9 | Security, data protection, reliability | HTTPS and headers; testing; documentation; deployment | Render & Vercel gave us issues  |
 
 **Stand-up format we used:** What did I do yesterday? What will I do today? Is anything blocking me?
 
