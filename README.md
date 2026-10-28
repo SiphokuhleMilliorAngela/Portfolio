@@ -131,8 +131,8 @@ Our charter was built as a Work Breakdown Structure (WBS) card on the **Project 
 
 When the team shrank, we opened a second card, **NEW PC**, to restructure the project. It has a Change Log and a Roles checklist that moved from *Pending* to *Updated*. We also agreed a **Brand Guide** (mission, vision, values, logo, colours, typography) that every member signed off.
 
-![Trello WBS card for the team charter](images/charter-wbs.png)
-![Trello NEW PC card with change log and roles](images/charter-newpc.png)
+<img src="charter.png" alt="charter">
+<img src="charter2.jpg" alt="charter2">
 
 ### Reflection
 
@@ -186,8 +186,8 @@ We kept two versions of the **PRODUCT BACKLOG** list on the board.
 
 **Revised backlog (current, Sprints 10 to 16):** after the project restructured, we rewrote the remaining work as day-by-day items, each with a user story: analytics and dashboard UI, reporting, expansion of the catalogue, end-to-end, regression and acceptance testing, documentation, launch preparation, monitoring, go-live, post-launch review and final handover.
 
-![Original product backlog list in Trello](images/backlog-original.png)
-![Revised product backlog list in Trello](images/backlog-revised.png)
+<img src="archived.png" alt="archived">
+<img src="current.png" alt="current">
 
 ### Reflection
 
@@ -250,9 +250,8 @@ The logbook records what the team planned each sprint, what I worked on, and wha
 
 **Retrospective format (Day 4):** What went well? What did not? What will we change next sprint?
 
-[[Add 2 or 3 real stand-up or retrospective entries with dates, even short ones. WhatsApp screenshots of meetings work well as evidence.]]
 
-![Logbook screenshots or WhatsApp meeting notes](images/logbook-evidence.png)
+<img src="communication.jpg" alt="communication">
 
 ### Reflection
 
@@ -283,3 +282,5 @@ The board also made our progress visible and accountable. Ticked checklist items
 - **Use retrospectives to change the plan.** Turn each retrospective into one concrete change for the next sprint, and check at the next retrospective whether it worked.
 
 **What I will take into my next project:** I will write retrospective notes at the end of every sprint and use them to adjust the following sprint plan, rather than only recording them.
+
+<img src="board.png" alt="board">
