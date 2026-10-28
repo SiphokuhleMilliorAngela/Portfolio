@@ -131,7 +131,7 @@ Our charter was built as a Work Breakdown Structure (WBS) card on the **Project 
 
 When the team shrank, we opened a second card, **NEW PC**, to restructure the project. It has a Change Log and a Roles checklist that moved from *Pending* to *Updated*. We also agreed a **Brand Guide** (mission, vision, values, logo, colours, typography) that every member signed off.
 
-<img src="charter.png" alt="charter">
+<img src="charter.jpg" alt="charter">
 <img src="charter2.jpg" alt="charter2">
 
 ### Reflection
@@ -216,7 +216,7 @@ Each sprint ran for four days and used the same rhythm: Day 1 to 3 build feature
 | 8 | Core testing, UI improvements, performance, deployment pipeline |
 | 9 (in progress) | Security hardening, data protection, reliability, deploy |
 
-![Trello SPRINT: COMPLETED list](images/sprint-completed.png)
+<img src="milestones.png" alt="milestones">
 ![Trello SPRINT: IN PROGRESS list](images/sprint-inprogress.png)
 
 ### Reflection
