@@ -1,4 +1,4 @@
-<img width="323" height="268" alt="image" src="https://github.com/user-attachments/assets/c243bde3-f5ce-4332-b7db-da1a00cba02f" />
+
 # SIPHOKUHLE MILLIOR ANGELA NYANA
 
 📞083 243 2798 | 🌐 [Portfolio](https://siphokuhlemilliornyana.netlify.app/) | [LinkedIn](https://www.linkedin.com/in/siphokuhlenyana-6a917016a/)
